@@ -1,0 +1,6 @@
+CustomerID,CustomerName,Country,Segment
+C001,John Smith,USA,Consumer
+C002,Sarah Lee,Canada,Corporate
+C003,David Kim,UK,Home Office
+C004,Ana Gomez,Mexico,Consumer
+C005,Liu Wei,China,Corporate
