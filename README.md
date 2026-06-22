@@ -1,37 +1,59 @@
-# Sales Performance Dashboard
+# 📊 Sales Performance Dashboard  
+### Power BI | Data Modeling | DAX | Business Insights
 
-## 📊 Overview
-An end-to-end Power BI project analyzing global sales performance across regions, products, and customers.
+This project analyzes global sales performance to identify revenue trends, top‑performing regions, customer behavior, and product profitability.  
+It demonstrates end‑to‑end BI skills including data cleaning, modeling, DAX calculations, and interactive dashboard design.
 
-## 🧰 Tools Used
-- Power BI
-- Power Query
-- DAX
-- Excel/CSV
+---
 
-## 📁 Folder Structure
-- `/data` → raw datasets  
-- `/powerbi` → Power BI file (.pbix)  
-- `/documentation` → KPI definitions, data model, DAX formulas  
-- `/images` → dashboard screenshots  
+## 🔍 Project Overview  
+The goal of this dashboard is to help business stakeholders understand:
 
-## 🚀 Project Steps
-1. Data collection and cleaning  
-2. Data modeling and relationships  
-3. DAX measure creation  
-4. Dashboard design and insights  
-5. Publishing and documentation  
+- Which regions generate the highest revenue  
+- Monthly and yearly sales trends  
+- Top‑selling products and categories  
+- Customer purchasing patterns  
+- Profitability insights  
 
-## 📈 Key KPIs
-- Total Sales  
-- Total Profit  
-- Profit Margin %  
-- YoY Growth %  
-- Average Order Value  
+---
 
-## 🧠 Insights
-This dashboard helps identify top-performing regions, profitable product categories, and customer segments driving revenue growth.
+## 🛠 Tools & Technologies  
+- **Power BI** (Data modeling, DAX, visualization)  
+- **Excel / CSV** (Raw data source)  
+- **DAX Measures** (YTD, MoM, Profit %, Sales KPIs)  
 
-## 🏁 Status
-✅ Repository setup complete  
-🔜 Next: Dataset generation and Power BI dashboard build
+---
+
+## 📁 Project Structure  
+/data → raw dataset  
+/dashboard → Power BI file (.pbix)  
+/screenshots → dashboard images  
+
+---
+
+## 📸 Dashboard Preview  
+(Add 2–3 screenshots here)
+
+---
+
+## 📈 Key Insights  
+- Region X contributed the highest revenue  
+- Product Category Y showed the strongest YoY growth  
+- Customer segment Z had the highest average order value  
+- Seasonal spikes observed in Q3 and Q4  
+
+---
+
+## 🧠 Skills Demonstrated  
+- Data cleaning & transformation  
+- Star schema data modeling  
+- Creating DAX measures  
+- Designing interactive dashboards  
+- Business storytelling with data  
+
+---
+
+## 🚀 Future Improvements  
+- Add forecasting  
+- Add drill‑through pages  
+- Add customer segmentation analysis  
