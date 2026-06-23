@@ -25,14 +25,14 @@ The goal of this dashboard is to help business stakeholders understand:
 ---
 
 ## 📁 Project Structure  
-/data → raw dataset  
-/dashboard → Power BI file (.pbix)  
-/screenshots → dashboard images  
+/data → raw datasets (CSV files)  
+/Reports → exported dashboard (PDF)  
+/powerbi → placeholder for PBIX file  
 
 ---
 
 ## 📸 Dashboard Preview  
-(Add 2–3 screenshots here)
+The full dashboard is available as a PDF in the **Reports** folder.
 
 ---
 
